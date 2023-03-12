@@ -46,7 +46,8 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosunggwan0224&show_icons=true&theme=radical)
 <!--
 **seosunggwan0224/seosunggwan0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
