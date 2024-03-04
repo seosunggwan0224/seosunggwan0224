@@ -1,4 +1,4 @@
-###  Let's enjoy the immersion
+###  Let's enjoy the immersion 😄
 
 <div align=center><h1>📚 STACKS</h1></div>
 
